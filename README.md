@@ -2,7 +2,11 @@
 
 ## 1. Description
 This project involves designing a database for the Market Flash which specialises in social media campaigns, marketing and performance analysis of clients. Market Flash needs to design a robust database to manage information of their clients, campaigns, advertisements, employees and payments.
-As part of the project, we create an Entity-Relationship Diagram (ERD), a functional diagram and write SQL queries to create tables and validation of database design.
+
+![gradient-green-pushpin-map](https://github.com/user-attachments/assets/9cf5fff7-4690-4ce8-835c-f1cfdae0409d)
+
+As part of the project, an Entity-Relationship Diagram (ERD), a functional diagram and SQL queries were written for database design.
+This project was done as part of the Data Analytics course offered by MasterSchool
 
 ### Tools used 
 For creating ERD and functional diagram web-based diagramming and visualisation tool Lucidchart was used.
@@ -41,4 +45,11 @@ This script was used to enter dummy data considering the data type, primary key,
 ### Validation
 This script was used to validate the database design. Some SQL queries were run to make functional validity. The database was validated for Foreign key(s) relation, Data consistency, Budget and performance analysis, general integrity checks using WHERE clause and JOINS.
 - `validation.sql`: Validation SQL queries.
+
+## 5. Disclaimer  
+This project is for educational purposes and is not intended for production use. The author is not responsible for any issues arising from the use of this database design. 
+
+## 6. About the Author  
+This project was created by Anuj, a database designer, data analyst and scientist (biologist). 
+Feel free to connect via [LinkedIn](www.linkedin.com/in/anujanujbioanalyst) or [email](mailto:anuj.kaushik.btjj@gmail.com).  
 
