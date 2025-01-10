@@ -17,7 +17,8 @@ Information available for the ERD:
 - One influencer may be hired for one or more campaigns and one campaign may use one or more influencers.
 - Each piece of content must belong to one campaign and one campaign must have one or more pieces of content.
 - A payment must belong to one and only one campaign and a campaign may have one or more payments.
-- One set of metrics must belong to one and only one campaign and one campaign must have one and only one set of metrics. - One advertisement must belong to one and only one campaign and one campaign must have one or more advertisements.
+- One set of metrics must belong to one and only one campaign and one campaign must have one and only one set of metrics.
+- One advertisement must belong to one and only one campaign and one campaign must have one or more advertisements.
 - One advertisement must belong to one and only one platform and one platform may have one or more advertisements.
 
   <img width="926" alt="market_flash_erd" src="https://github.com/user-attachments/assets/8128426c-ccf1-482e-ac10-c3211b75bef7" />
