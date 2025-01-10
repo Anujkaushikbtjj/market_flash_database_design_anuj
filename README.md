@@ -23,12 +23,12 @@ Information available for the ERD:
 
   <img width="926" alt="market_flash_erd" src="https://github.com/user-attachments/assets/8128426c-ccf1-482e-ac10-c3211b75bef7" />
   
-## 2. Functional Diagram
+## 3. Functional Diagram
 A functional diagram shows how the data flow in Market Flash database. It shows information about the data, primary and foreign keys, datatype and removes redundancy making it easier to access and modify data, if needed.
 
 <img width="1309" alt="market_flash_functional_diagram" src="https://github.com/user-attachments/assets/06cc11a9-c5a9-4c40-aa02-dd9ce66abd49" />
 
-## 3. SQL Scripts
+## 4. SQL Scripts
 
 ### Creating tables
 This script was used to create the database tables with defined data type, primary key, foreign key(s) and constraints.
