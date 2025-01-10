@@ -51,5 +51,7 @@ This project is for educational purposes and is not intended for production use.
 
 ## 6. About the Author  
 This project was created by Anuj, a database designer, data analyst and scientist (biologist). 
-Feel free to connect via [LinkedIn](www.linkedin.com/in/anujanujbioanalyst) or [email](mailto:anuj.kaushik.btjj@gmail.com).  
+Feel free to connect via 
+LinkedIn:  https://www.linkedin.com/in/anujanujbioanalyst 
+Email: anuj.kaushik.btjj@gmail.com
 
