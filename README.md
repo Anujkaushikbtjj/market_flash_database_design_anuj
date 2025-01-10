@@ -32,7 +32,7 @@ A functional diagram shows how the data flow in Market Flash database. It shows 
 
 ### Creating tables
 This script was used to create the database tables with defined data type, primary key, foreign key(s) and constraints.
-- `create_tables.sql`: Contains the table creation script.
+- `create_table.sql`: Contains the table creation script.
 
 ### Inserting data (dummy)
 This script was used to enter dummy data considering the data type, primary key, foreign key(s) and constraints.
@@ -40,7 +40,5 @@ This script was used to enter dummy data considering the data type, primary key,
 
 ### Validation
 This script was used to validate the database design. Some SQL queries were run to make functional validity. The database was validated for Foreign key(s) relation, Data consistency, Budget and performance analysis, general integrity checks using WHERE clause and JOINS.
-- `validation_queries.sql`: Validation SQL queries.
+- `validation.sql`: Validation SQL queries.
 
-## 4. How to Run
-*Instructions for setting up the database and running queries.*
