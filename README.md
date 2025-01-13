@@ -26,9 +26,8 @@ Information available for the ERD:
 - One advertisement must belong to one and only one campaign and one campaign must have one or more advertisements.  
 - One advertisement must belong to one and only one platform and one platform may have one or more advertisements.  
 
-  <img width="870" alt="market_flash_erd" src="https://github.com/user-attachments/assets/cd054cb4-c7a2-4d2f-85f2-4bafde628447" />
+  <img width="1002" alt="market_flash_erd" src="https://github.com/user-attachments/assets/36217ca7-0f7f-4ac4-bab4-0e0ccd419286" />
 
-  
 ## 3. Functional Diagram
 A functional diagram shows how the data flow in Market Flash database. It shows information about the data, primary and foreign keys, datatype and removes redundancy making it easier to access and modify data, if needed.
 
